@@ -32,5 +32,5 @@ Jika Anda belum pernah berkontribusi ke open source sebelumnya, ini adalah waktu
   ---
   
   # Good Luck
-  <b>Good luck to all</b>
+  Semoga Beruntung Untuk Kamu Yang Sedang Berjuang Untuk Berkontribusi Dalam Event Hacktoberfest 2021, Tetap Semangat Dalam Berkontribusi Demi  Mensukseskan Acara Yang Mendorong Kita Untuk Belajar Open Source
   
