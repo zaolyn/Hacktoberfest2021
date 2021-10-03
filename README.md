@@ -21,3 +21,16 @@ Jika Anda belum pernah berkontribusi ke open source sebelumnya, ini adalah waktu
 ``` markdown
 | Nama | [Nama Akun Github](Link Github) |
 ```
+
+---
+# Kontributor List
+
+<a href="https://github.com/hctnm1/Hacktoberfest2021/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Faiznurullah/Hacktoberfest2021" />
+</a>
+  
+  ---
+  
+  # Good Luck
+  <b>Good luck to all</b>
+  
