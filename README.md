@@ -66,6 +66,13 @@ Jika Anda belum pernah berkontribusi ke open source sebelumnya, ini adalah waktu
             <sub><b>abhilashkpy</b></sub>
         </a>
     </td> 
+      <td align="center">
+        <a href="https://github.com/rasyidzkun">
+            <img src="https://avatars.githubusercontent.com/u/61974564?v=4" width="100;" alt="Ar Rasyid Sarifullah"/>
+            <br />
+            <sub><b>Ar Rasyid Sarifullah</b></sub>
+        </a>
+    </td>
   </tr>
   
   
@@ -73,3 +80,7 @@ Jika Anda belum pernah berkontribusi ke open source sebelumnya, ini adalah waktu
   </table>
   
   ---
+  
+  # Good Luck
+  <b>Good luck to all</b>
+  
