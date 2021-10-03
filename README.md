@@ -21,3 +21,55 @@ Jika Anda belum pernah berkontribusi ke open source sebelumnya, ini adalah waktu
 ``` markdown
 | Nama | [Nama Akun Github](Link Github) |
 ```
+
+---
+# Kontributor List
+
+<table>
+  
+<tr>
+  <td align="center">
+        <a href="https://github.com/Faiznurullah">
+            <img src="https://avatars.githubusercontent.com/u/59213454?v=4" width="100;" alt="Grakody"/>
+            <br />
+            <sub><b>Grakody</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/bamsarts">
+            <img src="https://avatars.githubusercontent.com/u/11385796?v=4" width="100;" alt="Bambang Supriadi"/>
+            <br />
+            <sub><b>Bambang Supriadi</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/dodichakill">
+            <img src="https://avatars.githubusercontent.com/u/37464431?v=4" width="100;" alt="dodi herlangga"/>
+            <br />
+            <sub><b>dodi herlangga</b></sub>
+        </a>
+    </td>
+    </tr>
+  
+  <tr>
+    <td align="center">
+        <a href="https://github.com/Riyana6">
+            <img src="https://avatars.githubusercontent.com/u/57560640?v=4" width="100;" alt="JMJ Riyana"/>
+            <br />
+            <sub><b>JMJ Riyana</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/abhilashkpy">
+            <img src="https://avatars.githubusercontent.com/u/64542750?v=4" width="100;" alt="abhilashkpy"/>
+            <br />
+            <sub><b>abhilashkpy</b></sub>
+        </a>
+    </td> 
+  </tr>
+  
+  
+  
+  </table>
+  
+  ---
