@@ -3,6 +3,7 @@
 | Nama Kontributor |  Nama Akun Github |
 | --- | --- |
 | Faiz Nurullah |  [Faiznurullah](https://github.com/faiznurullah) |
+| AnonSecTeamInc |  [anonsecteaminc](https://github.com/anonsecteaminc) |
 | Irvan Hakim |  [bakunya](https://github.com/bakunya) |
 | Bambang Supriadi |  [bamsarts](https://github.com/bamsarts) |
 | Dodi |  [dodichakill](https://github.com/dodichakill) |
@@ -12,7 +13,13 @@
 | Rzhasibuan | [Rzhasibuan](https://github.com/rzhasibuan) |
 | Lukman | [Lukman350](https://github.com/Lukman350) |
 | Haikel | [haikelz](https://github.com/haikelz) |
+| Adeputra | [armadani](https://github.com/armadani) |
+| Wahyu | [bywahjoe](https://github.com/bywahjoe) |
+| Ibnu Ali | [ibnuali](https://github.com/ibnuali) |
+| Akmal | [pandas-id](https://github.com/pandas-id) |
 | Irham Muhammad Shidiq | [irhamshidiq](https://github.com/irhamshidiq) |
+
+
 
 
 
