@@ -23,6 +23,7 @@
 | Akmal | [pandas-id](https://github.com/pandas-id) |
 | Irham Muhammad Shidiq | [irhamshidiq](https://github.com/irhamshidiq) |
 | Shravya | [ShravyaMallya] (https://github.com/ShravyaMallya) |
+| Dwi Dhanis | [dwidhanis] (https://github.com/dwidhanis/) |
 
 
 
