@@ -14,6 +14,7 @@
 | Lukman | [Lukman350](https://github.com/Lukman350) |
 | Haikel | [haikelz](https://github.com/haikelz) |
 | Adeputra | [armadani](https://github.com/armadani) |
+| Wahyu | [bywahjoe](https://github.com/bywahjoe) |
 
 
 
