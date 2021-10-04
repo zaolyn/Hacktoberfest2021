@@ -12,7 +12,7 @@
 | Rzhasibuan | [Rzhasibuan](https://github.com/rzhasibuan) |
 | Lukman | [Lukman350](https://github.com/Lukman350) |
 | Haikel | [haikelz](https://github.com/haikelz) |
-
+| Akmal | [pandas-id](https://github.com/pandas-id) |
 
 
 
