@@ -21,6 +21,7 @@
 | Ayatullah Naufal | [ayatullahnaufal](https://github.com/ayatullahnaufal) |
 | Muhamad Ristiyanto | [Gimenz](https://github.com/Gimenz) |
 | Akmal | [pandas-id](https://github.com/pandas-id) |
+| hiko | [xhiko1](https://github.com/xhiko1) |
 | Irham Muhammad Shidiq | [irhamshidiq](https://github.com/irhamshidiq) |
 | Manju | [mthakur7](https://github.com/mthakur7)|
 | Agung sesar pamungkas | [agungxp](https://github.com/gitcomeon8) |
