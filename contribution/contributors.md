@@ -16,7 +16,7 @@
 | Adeputra | [armadani](https://github.com/armadani) |
 | Wahyu | [bywahjoe](https://github.com/bywahjoe) |
 | Ibnu Ali | [ibnuali](https://github.com/ibnuali) |
-
+| Muhamad Ristiyanto | [Gimenz](https://github.com/Gimenz) |
 
 
 
