@@ -30,7 +30,9 @@
 | Elfin Sanjaya | [elfinsanjaya12](https://github.com/elfinsanjaya12) |
 | Manju | [mthakur7](https://github.com/mthakur7)|
 | Agung sesar pamungkas | [agungxp](https://github.com/gitcomeon8) |
+| Rikky Arisendi | [rikkyarisendi](https://github.com/rikkyarisendi) |
 | Siddhant Pandey | [siddhant094](https://github.com/siddhant094) |
+
 
 
 
