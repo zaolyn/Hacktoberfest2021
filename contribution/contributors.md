@@ -15,15 +15,20 @@
 | Haikel | [haikelz](https://github.com/haikelz) |
 | Adeputra | [armadani](https://github.com/armadani) |
 | Wahyu | [bywahjoe](https://github.com/bywahjoe) |
-|Karan| .[karanS08](https://github.com/karanS08)|
+| Karan | .[karanS08](https://github.com/karanS08)|
 | Ibnu Ali | [ibnuali](https://github.com/ibnuali) |
 | Mario | [mArio](https://github.com/mariosamaaa) |
 | Ayatullah Naufal | [ayatullahnaufal](https://github.com/ayatullahnaufal) |
 | Muhamad Ristiyanto | [Gimenz](https://github.com/Gimenz) |
 | Akmal | [pandas-id](https://github.com/pandas-id) |
+| hiko | [xhiko1](https://github.com/xhiko1) |
 | Irham Muhammad Shidiq | [irhamshidiq](https://github.com/irhamshidiq) |
-| Shravya | [ShravyaMallya] (https://github.com/ShravyaMallya) |
 | Faldi R | [fadilkun45](https://github.com/fadilkun45) |
+| Elfin Sanjaya | [elfinsanjaya12](https://github.com/elfinsanjaya12) |
+| Manju | [mthakur7](https://github.com/mthakur7)|
+| Agung sesar pamungkas | [agungxp](https://github.com/gitcomeon8) |
+| Shravya | [ShravyaMallya](https://github.com/ShravyaMallya) |
+
 
 
 
