@@ -23,6 +23,7 @@
 | Akmal | [pandas-id](https://github.com/pandas-id) |
 | hiko | [xhiko1](https://github.com/xhiko1) |
 | Irham Muhammad Shidiq | [irhamshidiq](https://github.com/irhamshidiq) |
+| Dwi Dhanis | [dwidhanis] (https://github.com/dwidhanis/) |
 | Ayobami | [ayobami11] (https://github.com/ayobami11) |
 | Shravya | [ShravyaMallya](https://github.com/ShravyaMallya) |
 | Agung Ardiyanto | [agungd3v](https://github.com/agungd3v) |
@@ -32,6 +33,7 @@
 | Agung sesar pamungkas | [agungxp](https://github.com/gitcomeon8) |
 | Rikky Arisendi | [rikkyarisendi](https://github.com/rikkyarisendi) |
 | Siddhant Pandey | [siddhant094](https://github.com/siddhant094) |
+
 
 
 
