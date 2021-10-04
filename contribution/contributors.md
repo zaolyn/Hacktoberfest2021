@@ -16,6 +16,8 @@
 | Adeputra | [armadani](https://github.com/armadani) |
 | Wahyu | [bywahjoe](https://github.com/bywahjoe) |
 | Ibnu Ali | [ibnuali](https://github.com/ibnuali) |
+| Akmal | [pandas-id](https://github.com/pandas-id) |
+
 
 
 
