@@ -9,14 +9,18 @@ Selama bulan Oktober 2021, yang harus Anda lakukan adalah berkontribusi pada pro
 
 Jika Anda belum pernah berkontribusi ke open source sebelumnya, ini adalah waktu yang tepat untuk memulai karena Hacktoberfest menyediakan banyak peluang kontribusi yang tersedia (dan ya, selalu ada banyak untuk pemula juga).
 
-
+  ---
+  
+  
 # Bagaimana Cara Berkontribusi ?
 - Buka Folder 'contribution' di repository 
 - Edit File contributors.md
 - Lalu Silahkan Isi Data Kalian
 - Tinggal Pull Request
-- Good Luck 
-
+- Good Luck
+ 
+  ---
+  
 # Contoh:
 ``` markdown
 | Nama | [Nama Akun Github](Link Github) |
@@ -34,3 +38,12 @@ Jika Anda belum pernah berkontribusi ke open source sebelumnya, ini adalah waktu
   # Good Luck
   Semoga Beruntung Untuk Kamu Yang Sedang Berjuang Untuk Berkontribusi Dalam Event Hacktoberfest 2021, Tetap Semangat Dalam Berkontribusi Demi  Mensukseskan Acara Yang Mendorong Kita Untuk Belajar Open Source
   
+   ---
+  
+    
+  # Repository Hacktoberfest 2021
+  - [https://github.com/fdciabdul/Hacktoberfest-Indonesia-2021](https://github.com/fdciabdul/Hacktoberfest-Indonesia-2021)
+  - [https://github.com/wafarifki/Hacktoberfest_2021](https://github.com/wafarifki/Hacktoberfest_2021)
+  - [https://github.com/wibucode02/tempat-kontributor ](https://github.com/wibucode02/tempat-kontributor)
+  
+   ---
