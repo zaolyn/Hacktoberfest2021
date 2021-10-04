@@ -16,6 +16,7 @@
 | Adeputra | [armadani](https://github.com/armadani) |
 | Wahyu | [bywahjoe](https://github.com/bywahjoe) |
 | Ibnu Ali | [ibnuali](https://github.com/ibnuali) |
+| Ayatullah Naufal | [ayatullahnaufal](https://github.com/ayatullahnaufal) |
 
 
 
