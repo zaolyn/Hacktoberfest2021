@@ -15,7 +15,7 @@
 | Haikel | [haikelz](https://github.com/haikelz) |
 | Adeputra | [armadani](https://github.com/armadani) |
 | Wahyu | [bywahjoe](https://github.com/bywahjoe) |
-
+|Karan| .[karanS08](https://github.com/karanS08)|
 
 
 
