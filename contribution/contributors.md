@@ -17,12 +17,11 @@
 | Wahyu | [bywahjoe](https://github.com/bywahjoe) |
 |Karan| .[karanS08](https://github.com/karanS08)|
 | Ibnu Ali | [ibnuali](https://github.com/ibnuali) |
+| Mario | [mArio](https://github.com/mariosamaaa) |
 | Ayatullah Naufal | [ayatullahnaufal](https://github.com/ayatullahnaufal) |
 | Muhamad Ristiyanto | [Gimenz](https://github.com/Gimenz) |
 | Akmal | [pandas-id](https://github.com/pandas-id) |
 | Irham Muhammad Shidiq | [irhamshidiq](https://github.com/irhamshidiq) |
-
-
 
 
 
