@@ -22,6 +22,7 @@
 | Muhamad Ristiyanto | [Gimenz](https://github.com/Gimenz) |
 | Akmal | [pandas-id](https://github.com/pandas-id) |
 | Irham Muhammad Shidiq | [irhamshidiq](https://github.com/irhamshidiq) |
+| Manju | [mthakur7](https://github.com/mthakur7)|
 | Agung sesar pamungkas | [agungxp](https://github.com/gitcomeon8) |
 | Shravya | [ShravyaMallya](https://github.com/ShravyaMallya) |
 
